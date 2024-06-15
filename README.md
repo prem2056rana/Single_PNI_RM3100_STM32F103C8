@@ -1,8 +1,4 @@
 # Single_PNI_RM3100_STM32F103C8
-markdown
-Copy code
-# Single_PNI_RM3100_STM32F103C8
-
 ## Overview
 
 This project is designed to interface the PNI RM3100 magnetic sensor with an STM32F103C8 microcontroller. The RM3100 provides highly accurate magnetic field measurements, and this project demonstrates how to read and process these measurements using an STM32 microcontroller.
